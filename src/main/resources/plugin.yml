@@ -1,0 +1,8 @@
+name: ${name}
+version: ${version}
+api-version: 1.16
+description: ${description}
+author: CodeError
+website: https://www.codeslab.ca/
+main: net.CodeError.vanillascoreboards.VanillaScoreboards
+softdepend: [HolographicDisplays]
