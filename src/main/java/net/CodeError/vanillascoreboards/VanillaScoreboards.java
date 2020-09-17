@@ -22,7 +22,7 @@ public class VanillaScoreboards extends JavaPlugin implements CommandExecutor, T
 			this.getLogger().severe("Dependant plugin HolographicDisplays could not be found or is not enabled!");
 			this.getLogger().severe("Disabling VanilaScoreboards v1.0...");
 			
-			this.setEnabled(true);
+			this.setEnabled(false);
 			
 			return;
 			
